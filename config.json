@@ -1,0 +1,5 @@
+{
+  "access_token": YOUR_FACEBOOK_ACCESS_TOKEN,
+  "verify_token": AS_PER_SET_ON_FACEBOOK,
+  "google": YOUR_GOOGLE_API_KEY
+}
